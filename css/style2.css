@@ -792,19 +792,19 @@
 
    0%,
    100% {
-       background-image: url('../image/home-bg.jpg');
+       background-image: url('../images/back_img2.jpg');
    }
 
    25% {
-       background-image: url('../image/home-bg2.jpg');
+       background-image: url('../images/back_img1.jpg');
    }
 
    50% {
-       background-image: url('../image/home-bg3.jpg');
+       background-image: url('../images/back_img3.jpg');
    }
 
    75% {
-       background-image: url('../image/home-bg4.jpg');
+       background-image: url('../images/back_img4.jpg');
    }
 
 

@@ -12,13 +12,13 @@ if (!isset($user_id )) {
 
    <div class="flex">
 
-      <a href="home.php" class="logo"><span class="fas fa-seedling"></span> Farmbook </a>
+      <a href="home.php" class="logo"><span class="fas fa-seedling"></span> Artgallary </a>
 
       <nav class="navbar">
          <a href="home.php">Home</a>
          <a href="shop.php">Shop</a>
          <a href="orders.php">Orders</a>
-         <a href="buyer_users.php">Farmer's</a>
+         <a href="buyer_users.php">Artist's</a>
       </nav>
 
       <div class="icons">

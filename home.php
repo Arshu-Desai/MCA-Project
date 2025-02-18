@@ -101,19 +101,19 @@ if (isset($_POST['add_to_cart'])) {
 
         <section class="home">
 
-            <div class="content">
+            <!-- <div class="content">
                 <span> It's always better when it's natural.</span>
 
                 <h3>Reach For A Healthier You With Organic Farming</h3>
                 <p><b>~ Mr/Miss Farmer</b></p>
                 <a href="about.php" class="btn">about us</a>
-            </div>
+            </div> -->
 
         </section>
 
     </div>
 
-    <section class="home-category">
+    <!-- <section class="home-category">
 
         <h1 class="title">shop by category</h1>
 
@@ -157,7 +157,7 @@ if (isset($_POST['add_to_cart'])) {
 
         </div>
 
-    </section>
+    </section> -->
 
     <section class="products">
 
@@ -174,7 +174,7 @@ if (isset($_POST['add_to_cart'])) {
                     <form action="" class="box" method="POST">
                         <div class="price"><span>₹
                                 <?= $fetch_products['price']; ?>
-                                /kg
+                                
                             </span></div>
                         <a href="view_page.php?pid=<?= $fetch_products['id']; ?>" class="fas fa-eye"></a>
                         <img src="uploaded_img/<?= $fetch_products['image']; ?>" alt="">

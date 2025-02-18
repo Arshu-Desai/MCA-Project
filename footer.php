@@ -32,6 +32,6 @@
 
    </section>
 
-   <p class="credit"> &copy; copyright @ <?= date('Y'); ?> by <span> mr.arshad & mr.pranav </span> | all rights reserved! </p>
+   <p class="credit"> &copy; copyright @ <?= date('Y'); ?> by <span> mr.arshad  </span> | all rights reserved! </p>
 
 </footer>

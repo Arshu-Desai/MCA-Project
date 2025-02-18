@@ -36,7 +36,7 @@ if (!isset($user_id )) {
 
     <section class="user-accounts">
 
-        <h1 class="title">Farmer's accounts</h1>
+        <h1 class="title">Artist's accounts</h1>
 
         <div class="box-container">
 

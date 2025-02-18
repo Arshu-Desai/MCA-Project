@@ -71,7 +71,7 @@ if (!isset($user_id)) {
                                 <?= $fetch_orders['total_products']; ?>
                             </span></p>
                         <p> total price : <span>₹
-                                <?= $fetch_orders['total_price']; ?>/kg
+                                <?= $fetch_orders['total_price']; ?>
                             </span> </p>
                         <p> payment status : <span
                                 style="color:<?php if ($fetch_orders['payment_status'] == 'pending') {
